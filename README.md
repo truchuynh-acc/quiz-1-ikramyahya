@@ -46,7 +46,7 @@ public:
     return model;
     }
 
-    string getyear(){
+    int getyear(){
     return year;
     }
     
