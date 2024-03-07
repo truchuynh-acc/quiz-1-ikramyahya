@@ -18,6 +18,7 @@ class Car {
 public:
     std::string model;
     int year;
+    std::string color;
 
 
     void displayDetails() {
